@@ -1,5 +1,5 @@
 ### Hi there, I'm Ivan! <br />
-I am a computer software engineer student, currently an R&D intern at a start-up company called Genzai. <br />
+I am a software engineering student, currently interning at Genzai as an R&D developer. <br />
 
 Currently working on: <br />
 > Skelly2D - A custom built engine using the Monogame framework as a render engine <br />
