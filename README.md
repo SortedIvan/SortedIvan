@@ -6,6 +6,6 @@ Currently working on: <br />
 > Towerite - A 2D platformer, built using unity <br />
 > Rentswipe - A webscraper service, built to help people find accomodation in the Netherlands. <br />
 
-Also currently learning more about C++ by building some simple console applications <br />
+Currently learning more about C++ <br />
 
 Thank you for your time! :) <br />
