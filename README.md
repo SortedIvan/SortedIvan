@@ -1,4 +1,4 @@
-Smart contract auditor & software engineer
+<b>Smart contract auditor & software engineer</b>
 <br />
 
 Currently working on: <br />
