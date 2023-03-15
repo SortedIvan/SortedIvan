@@ -1,10 +1,10 @@
-### Hi there, I'm Ivan! <br />
-I am a software engineering student, currently working as a software dev at This is y as an R&D developer. <br />
+Smart contract auditor & software engineer
+
+<br />
 
 Currently working on: <br />
-> Blockbear - A decentalized application, similar to Reddit with Solidity & React <br />
-> Chatter - A C++ Networking exercise that connects up to 10 people in a room<br />
-> Rentswipe - A webscraper service, built to help people find accomodation in the Netherlands. <br />
+> Blockbear: Social dapp, based around a mix between discord and reddit <br />
+> Eth-resources: A repository dedicated towards providing materials for people interested in working in Web3.
 
-Currently learning more about Solidity & C++ <br />
+Current technicalities: Solidity, C++, .NET <br />
 
