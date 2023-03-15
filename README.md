@@ -1,5 +1,4 @@
 Smart contract auditor & software engineer
-
 <br />
 
 Currently working on: <br />
