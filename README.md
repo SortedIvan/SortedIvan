@@ -1,6 +1,8 @@
 I'm a software engineer with a lot of background in C#, C++ and Python. 
-I've worked as a developer for a start-up logistics SaaS company. Furthermore, I am currently working as the main engineer in a consultancy company.
-Due to my positions in the above mentioned companies, I've learned how to talk with company owners, how to set the right market value & deliver.
+For the last two years, I have been working mainly on lower level topics, such as graphics programming, networking and algorithms. 
+I have experience in a variety of companies, including start-ups, consultancy companies, as well as established corporations.
+I am currently pursuing a Bachelor's degree in Software Engineering and plan to be getting a Masters in Computer Science, starting this September.
 
-Currently trying to break into the world of micro-saas
+To reach out to me, please send me an email at: ivanovcharovbusiness@gmail.com
 
+For recruiters: a great starting point would be to look into https://github.com/SortedIvan/dfamaker
