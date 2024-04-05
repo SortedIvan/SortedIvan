@@ -6,3 +6,6 @@ I am currently pursuing a Bachelor's degree in Software Engineering and plan to 
 To reach out to me, please send me an email at: ivanovcharovbusiness@gmail.com
 
 For recruiters: a great starting point would be to look into https://github.com/SortedIvan/dfamaker
+
+I also love leetcode, so here's that as well:
+https://leetcode.com/iovcharov/
