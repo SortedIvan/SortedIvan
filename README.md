@@ -11,5 +11,7 @@ For recruiters: a great starting point would be to look into https://github.com/
 I like leetcode, so here's that too:
 https://leetcode.com/iovcharov/
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sortedivan&theme=dark)](https://git.io/streak-stats)
+<br/> 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://streak-stats.demolab.com?user=sortedivan&theme=dark)](https://git.io/streak-stats)
 
