@@ -5,7 +5,7 @@ I have worked as an engineer at two start-up companies, as well as the largest t
 
 To reach out to me, please send an email here: ivanovcharovbusiness@gmail.com
 
-For recruiters: a great starting point would be to look into https://github.com/SortedIvan/dfamaker
+For recruiters: a great starting point would be to look into some of the pinned projects on my profile
 
 I like leetcode, so here's that too:
 https://leetcode.com/iovcharov/
